@@ -1,4 +1,4 @@
-# 📝 Todo App Fullstack (Spring Boot + React)
+# 📝 Todo App -- Fullstack (Spring Boot + React)
 
 This is a full-stack **Todo Management System** built with **Spring Boot (Backend)** and **React (Frontend)** that supports **Role-Based Access Control**. It allows different user types (Super Admin, Admin, Member) to interact with the system based on their role privileges.
 
